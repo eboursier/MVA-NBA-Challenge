@@ -1,4 +1,4 @@
-## Cleaning/denoising the data
+# Cleaning/denoising the data
 
 All the required code for this operation can be found in cleaning_data.py
 Also, you can find on the Preprocessing notebook more information about what is done.
@@ -9,7 +9,7 @@ python cleaning_data.py train
 For the test:
 python cleaning_data.py test
 
-## Feature engineering
+# Feature engineering
 
 All the feature engineering can be found in the preprocessing.py file.
 
@@ -19,6 +19,6 @@ python preprocessing.py train
 For the test:
 python preprocessing.py test
 
-## Classification
+# Classification
 
 Once these operations have been run, you can look into the Classification notebook to try some final classifiers.
